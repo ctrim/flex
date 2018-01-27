@@ -1,0 +1,20 @@
+* {
+	background-color: blue;
+}
+
+h1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.box {
+	border: 5px dashed orange;
+	width: 50px;
+	color: lightgreen;
+}
+
+.container {
+	border: 4px solid gray;
+	width: 300px;
+}
