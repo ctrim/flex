@@ -20,5 +20,5 @@ h1 {
 	width: 300px;
 	display: inline-flex;
 	height: 100px;
-	justify-content: space-around;
+	justify-content: space-between;
 }
